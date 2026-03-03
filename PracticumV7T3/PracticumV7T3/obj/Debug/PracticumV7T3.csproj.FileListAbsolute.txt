@@ -1,0 +1,10 @@
+C:\Users\dzhey\Downloads\Логов\PracticumV7T3\PracticumV7T3\bin\Debug\PracticumV7T3.exe.config
+C:\Users\dzhey\Downloads\Логов\PracticumV7T3\PracticumV7T3\bin\Debug\PracticumV7T3.exe
+C:\Users\dzhey\Downloads\Логов\PracticumV7T3\PracticumV7T3\bin\Debug\PracticumV7T3.pdb
+C:\Users\dzhey\Downloads\Логов\PracticumV7T3\PracticumV7T3\obj\Debug\PracticumV7T3.csproj.AssemblyReference.cache
+C:\Users\dzhey\Downloads\Логов\PracticumV7T3\PracticumV7T3\obj\Debug\PracticumV7T3.Form1.resources
+C:\Users\dzhey\Downloads\Логов\PracticumV7T3\PracticumV7T3\obj\Debug\PracticumV7T3.Properties.Resources.resources
+C:\Users\dzhey\Downloads\Логов\PracticumV7T3\PracticumV7T3\obj\Debug\PracticumV7T3.csproj.GenerateResource.cache
+C:\Users\dzhey\Downloads\Логов\PracticumV7T3\PracticumV7T3\obj\Debug\PracticumV7T3.csproj.CoreCompileInputs.cache
+C:\Users\dzhey\Downloads\Логов\PracticumV7T3\PracticumV7T3\obj\Debug\PracticumV7T3.exe
+C:\Users\dzhey\Downloads\Логов\PracticumV7T3\PracticumV7T3\obj\Debug\PracticumV7T3.pdb

@@ -1,0 +1,10 @@
+C:\Users\dzhey\Downloads\Логов\109\109\bin\Debug\109.exe.config
+C:\Users\dzhey\Downloads\Логов\109\109\bin\Debug\109.exe
+C:\Users\dzhey\Downloads\Логов\109\109\bin\Debug\109.pdb
+C:\Users\dzhey\Downloads\Логов\109\109\obj\Debug\109.csproj.AssemblyReference.cache
+C:\Users\dzhey\Downloads\Логов\109\109\obj\Debug\_109.Form1.resources
+C:\Users\dzhey\Downloads\Логов\109\109\obj\Debug\_109.Properties.Resources.resources
+C:\Users\dzhey\Downloads\Логов\109\109\obj\Debug\109.csproj.GenerateResource.cache
+C:\Users\dzhey\Downloads\Логов\109\109\obj\Debug\109.csproj.CoreCompileInputs.cache
+C:\Users\dzhey\Downloads\Логов\109\109\obj\Debug\109.exe
+C:\Users\dzhey\Downloads\Логов\109\109\obj\Debug\109.pdb
